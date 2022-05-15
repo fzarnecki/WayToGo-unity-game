@@ -9,6 +9,7 @@ Combines entertainment with usefulness.
 Observe path being revealed and try to memorise it in a given time. Then do your best to recreate it and verify your memory skills.
 
 Enjoy the floaty game style and relax thanks to subtle animations and satisfying effects.
+
 ---
 
 <img src="https://github.com/mistybanana/WayToGo-unity-game/blob/main/appstore_screenshots/icon.jpg" width="200" height="200">
