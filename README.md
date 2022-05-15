@@ -3,7 +3,7 @@ A path-finding oriented game developed in Unity engine with the use of C#.
 
 <img src="https://github.com/mistybanana/WayToGo-unity-game/blob/main/appstore_screenshots/icon.jpg" width="200" height="200">
 
-<img src="https://github.com/mistybanana/WayToGo-unity-game/blob/main/appstore_screenshots/11.jpg" width="200" height="200">
+<img src="https://github.com/mistybanana/WayToGo-unity-game/blob/main/appstore_screenshots/11.jpg" width="108" height="192">
 
 <img src="https://github.com/mistybanana/WayToGo-unity-game/blob/main/appstore_screenshots/22.jpg" width="200" height="200">
 
